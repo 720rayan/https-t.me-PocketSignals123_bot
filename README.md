@@ -1,2 +1,2 @@
-# https-t.me-PocketSignals123_bot
+#@rayan2025_bot
 بوت تيليجرام يرسل توصيات تداول تلقائية كل دقيقة
